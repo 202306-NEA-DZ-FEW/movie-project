@@ -123,6 +123,8 @@ This will also help you out when you apply to jobs because potential employers w
 
 **Commit Message Format**
 
+After you finish wrapping up the Setup of Commitizen inside the setup page, you will have to use `git cz` when you make a new commit to follow this convention.
+
 Each commit message consists of a **header**, a **body** and a **footer**. The header has a special format that includes a **type** and a **subject**:
 
 ```

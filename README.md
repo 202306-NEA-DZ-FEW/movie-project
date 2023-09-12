@@ -1,17 +1,19 @@
 # Movie Project
 
 ## Overview
-Working with APIs to make our websites interactive sits at the core of frontend web development. At the end, frontend websites work as interfaces that give us the ability to interace with data. All this data is coming from some form of an API. 
+
+Working with APIs to make our websites interactive sits at the core of frontend web development. At the end, frontend websites work as interfaces that give us the ability to interace with data. All this data is coming from some form of an API.
 
 The API you will be interacting with is a movie API that can be used to retreive information about movies and actors. It is quite extensive and serves many purposes for your needs. In addition to that, it has quite a versatile searching mechanism that gives you the ability to reach for the information you need.
 
 ## How to make use of this WIKI?
+
 As you can see, the only thing you received from us is a bunch of `.md` (Markdown) files like the one you're reading now. We want you to learn to build your own projects from scratch and see how the process is done. So, we have created the following things in the wiki to help you out with the preparation:
+
 1. Setup - This page contains the steps you need to setup the project. **Only one of you will do it, while the others watch and support them**
 2. Requirements - This page contains the requirements that you need to do for the project.
 3. Presentation - This page contains the requirements that you need to do when presenting.
 4. Score guide - We're introducing a new score system. This page contains the breakdown of the score.
-5. Tips - This page contains tips and small pieces of advice for you and your team. Following them is totally optional and is up to you. __Will you follow them though?__
 
 To make the best use of this Wiki, go first to the requirements, understand them, then go to the score guide, understand it, then finally head to the setup page so you can do the setup with everything in mind.
 
